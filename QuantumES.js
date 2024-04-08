@@ -3795,7 +3795,7 @@ height: 270px;
             randomVid.style = "align-self: start";
             randomVid.innerHTML = `
                             <span class="justify-sb" style="margin-left:20px;text-align: left;font-size:17px;font-style:italic; font-weight:400;">ㆍ Mira nuestros eventos:</span>
-<a href="https://beta.sigmally.com/" style="display: inline-block; margin-top: 10px; margin-left: 15px;">
+<a href="https://discord.com/channels/1197112792487039066/1197112793132974132" style="display: inline-block; margin-top: 10px; margin-left: 15px;">
     <img height="150" width="240" style="border-radius: 10px; cursor: pointer; object-fit: contain;" src="https://i.ibb.co/hHXcRbG/Insanity-Family-5.png" alt="image" />
 </a>
             `;
