@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Quantum.js
+// @name         QuantumES.js
 // @version      2
 // @description  Get everything you wanted in just one click!!! Minimap, Modern Chat, Multifunctional Menu, Languages and much more!!!
 // @author       Dαɳjs ◮
